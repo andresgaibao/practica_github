@@ -3,7 +3,7 @@ package entidad;
 
 
 public class gato {
-    String raza,color,color_ojos;
+    String raza, color,color_ojos;
     int peso,altura;
 
     public gato(String raza, String color, String color_ojos, int peso, int altura) {

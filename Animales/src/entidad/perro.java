@@ -6,6 +6,7 @@ public class perro {
     String nombre,raza,tipo_pelaje, genero,color;
     int peso,altura;
 
+    
     public perro(String nombre, String raza, String tipo_pelaje, String genero, String color, int peso, int altura) {
         this.nombre = nombre;
         this.raza = raza;
